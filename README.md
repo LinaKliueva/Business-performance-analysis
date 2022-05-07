@@ -1,5 +1,4 @@
 # Business-performance-analysis
-Анализ бизнес-показателей
 
 ### Задача
 
